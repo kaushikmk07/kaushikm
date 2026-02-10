@@ -1,4 +1,4 @@
-# kaushikm
+
 
 
 # 👋 Hi, I'm M. Kaushik
@@ -115,5 +115,5 @@ This repository serves as my **personal GitHub profile hub**, showcasing my anal
 
 ---
 
-> ⚠️ Note: All projects emphasize **analytical thinking, data quality, and business relevance** over cosmetic visualizations.
+
 
